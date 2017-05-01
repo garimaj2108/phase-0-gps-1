@@ -1,1 +1,1 @@
-This is absurd !
+** This is the change for small conflict branch**
